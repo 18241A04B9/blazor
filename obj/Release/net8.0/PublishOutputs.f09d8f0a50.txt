@@ -1,0 +1,2 @@
+D:\Dotnet\Podman\BlazorApp1\publish\emcc-props.json
+D:\Dotnet\Podman\BlazorApp1\publish\web.config
